@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Merriweather", serif;
+
+    list-style: none;
+}
+
+body {
+    margin: 10px 250px;
+    background-color: #fdf6e4;
+
+}
+
+.tudo {
+    text-align: center;
+    background-color: rgb(92, 92, 92, 0.1);
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.igor,
+.hobbies {
+    color: #a35913;
+    margin: 25px auto;
+}
+
+.main-para p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+.main-para p {
+    font-weight: 300;
+}
+
+.lista {
+    text-align: center;
+    padding: 15px;
+}
+
+li {
+    padding-bottom: 5px;
+}
+
+#work {
+    margin: 0 auto;
+    padding: 15px;
+    max-width: 100%;
+    max-height: 100%;
+    width: 350px;
+    height: 350px;
+    border-radius: 20%;
+}
+
+#lugares {
+    color: #000;
+    margin: 15px;
+    margin-top: 10;
+    padding: 10px;
+    padding-bottom: 5px;
+    font-weight: 400;
+    text-align: center;
+}
+
+table img {
+    width: 120px;
+    height: 100px;
+}
+
+.tabela {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 39%;
+    max-width: 600px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+td img{
+    padding: 12px;
+    border-radius: 20px;
+    width: 120px;
+}
+
+.rodape {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+#botao {
+    padding: 10px;
+}
+
+
+
+.span {
+    color: red;
+}
+
+.linkf1 {
+    color: #000;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.linkf1:hover {
+    color: red;
+}
+
+button {
+    width: 12%;
+}
+
+i {
+    margin-left: 5px;
+}
+
+
+
+
